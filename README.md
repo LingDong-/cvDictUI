@@ -3,7 +3,7 @@
 
 ![](screenshots/screen00.png)
 
-From any python dictionary, this tool generates a graphical user interface automatically to facilitate tweaking parameters in interactive python applications.
+From any python dictionary, this simple tool generates a graphical user interface automatically to facilitate tweaking parameters in interactive python applications.
 
 It presents a clean, hierarchical view of all your parameters, where groups of variables can be expanded or collapsed. It also gives you the power to edit integers, floats, strings, lists and dictionaries while your app is running, so you can watch them take effect in real time.
 
