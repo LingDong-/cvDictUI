@@ -7,7 +7,7 @@ From any python dictionary, this simple tool generates a graphical user interfac
 
 It presents a clean, hierarchical view of all your parameters, where groups of variables can be expanded or collapsed. It also gives you the power to edit integers, floats, strings, lists and dictionaries while your app is running, so you can watch them take effect in real time.
 
-It is written in pure python, and uses opencv-python to render its graphics, so it's especially suitable for projects already using these technologies. 
+This small script is written in pure python, and uses opencv-python to render its graphics, so it's especially suitable for projects already using these technologies. 
 
 ## Features
 
