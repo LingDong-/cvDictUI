@@ -61,7 +61,7 @@ while True:
     
     # draw a circle with parameters from the dictionary
     cv2.circle(
-    	im(128,128),dict_obj["radius"],
+    	im,(128,128),dict_obj["radius"],
     	color=tuple(dict_obj["color"]),
     	thickness=dict_obj["outline"]*11-1
     )
