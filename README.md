@@ -70,7 +70,7 @@ while True:
     cv2.imshow("app",im)
     
     # send key events to cvDictUI
-	 key = cv2.waitKey(1) & 0xFF
+    key = cv2.waitKey(1) & 0xFF
     if not ui.update(key):
         break
         
